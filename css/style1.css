@@ -1,0 +1,23 @@
+.header{
+
+    background-image: url('images/download.jpeg');
+    background-size: cover;
+    height: 500px;
+    
+    background-repeat: no-repeat;
+
+}
+h3,h4{
+    color: crimson;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+}
+label{
+    color: brown;
+}
+input{
+    color: firebrick;
+    border: 6px solid red;
+    border-radius: 20px;
+    box-shadow: 2px 4px lightcoral;
+}
